@@ -1,4 +1,4 @@
-# Une-application-Crunch-et-moi-pour-les-tudiants-de-l-UTT-
+# Une-application-Crunch-et-moi-pour-les-étudiants-de-l-UTT-
 
 Dans le cadre des enseignements de l’UE EG23, chaque binôme d’étudiant a pu participer à
 la conception d’un prototype d’une application. Le projet de ce semestre a porté sur une
